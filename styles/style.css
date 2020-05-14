@@ -2,7 +2,7 @@
     margin: 100px 0 0 0;
 }
 #window {
-    border: 1px black;
+    border: 1px solid;
     width: 200px;
     height: 200px;
     margin: 0 auto;
